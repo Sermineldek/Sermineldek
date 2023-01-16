@@ -10,10 +10,3 @@ I've been training in this field for about a year. I have a passion for learning
 - 📃 I write articles https://medium.com/@sermineldek.
 - ⚡ I am currently trying to improve myself and open to work.
 
-
-Connect with me:
-https://www.linkedin.com/in/%C5%9Fermin-eldek-882105262/
-https://medium.com/@sermineldek
-https://kommunity.com/@sermineldek
-https://www.meetup.com/tr-TR/members/380765060/ 
-Şerminnn#7403 
