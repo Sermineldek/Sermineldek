@@ -10,3 +10,7 @@ I've been training in this field for about a year. I have a passion for learning
 - 📃 I write blog https://medium.com/@sermineldek.
 - ⚡ I am currently trying to improve myself and open to work.
 
+
+Contact with me:
+- 📩 sermineldk@gmail.com 
+
