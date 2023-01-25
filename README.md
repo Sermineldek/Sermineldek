@@ -17,3 +17,4 @@ To contact me:
 - ✔ https://twitter.com/sermineldk
 - ⚡ https://www.linkedin.com/in/şermineldek/ 
 - ⚡ https://www.instagram.com/sermineldk/
+- ✔ https://kommunity.com/@sermineldek
