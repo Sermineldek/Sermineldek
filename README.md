@@ -14,8 +14,6 @@ I've been training in this field for about a year. I have a passion for learning
 
 To contact me:
 - 📩 sermineldk@gmail.com 
-- ✔ https://twitter.com/sermineldk
 - ⚡ https://www.linkedin.com/in/şermineldek/ 
-- ⚡ https://www.instagram.com/sermineldk/
 - ✔ https://kommunity.com/@sermineldek
 - ✔ https://www.meetup.com/tr-TR/members/380765060/
