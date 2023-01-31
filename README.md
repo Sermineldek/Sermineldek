@@ -17,3 +17,4 @@ To contact me:
 - ⚡ https://www.linkedin.com/in/şermineldek/ 
 - ✔ https://kommunity.com/@sermineldek
 - ✔ https://www.meetup.com/tr-TR/members/380765060/
+- ✔ https://twitter.com/sermineldk
