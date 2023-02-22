@@ -1,4 +1,4 @@
-           👋 Hello! I'm Şermin
+           👋 Hello I'm Şermin
 
 I'm trying to improve myself in a software testing engineering field based in Turkey.
 
