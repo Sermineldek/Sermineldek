@@ -16,4 +16,3 @@ To contact me:
 - 📩 sermineldk@gmail.com 
 - ✔ https://www.linkedin.com/in/şermineldek/ 
 - ✔ https://kommunity.com/@sermineldek
-- ✔ https://www.meetup.com/tr-TR/members/38076506
