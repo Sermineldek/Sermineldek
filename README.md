@@ -11,7 +11,6 @@ I've been training in this field for about a year. I have a passion for learning
 - ⚡ I am currently trying to improve myself and open to work.
 
 
-
 To contact me:
 - 📩 sermineldk@gmail.com 
 - ✔ https://www.linkedin.com/in/şermineldek/ 
