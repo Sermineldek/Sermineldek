@@ -1,17 +1,19 @@
-           👋 Hello I'm Şermin
+🚀 Hello, I'm Şermin Eldek
 
-I'm trying to improve myself in a software testing engineering field based in Turkey.
+🔍 Software Testing Specialist | AI-Driven Testing | Quality Assurance
 
-I've been training in this field for about a year. I have a passion for learning new concepts and technologhies. My goal is to grow as a person by learning new skills and languages. I want to use that knowledge to selve real world problems and contribute to the community. 
+I am a Software Testing Specialist with Expertise in Artificial Intelligence, passionate about ensuring software quality through cutting-edge testing strategies. With a deep understanding of manual, automated, and AI-driven testing, I strive to optimize testing processes, enhance efficiency, and drive innovation in software quality assurance.
 
+🔹 Expertise & Focus Areas
+✅ AI-Powered Software Testing
+✅ Test Automation & Continuous Testing
+✅ Manual & Exploratory Testing
+✅ Performance & Security Testing
+✅ API & Mobile Testing
 
-- 🌱 I’m currently learning Java and Test Automation.
-- 📃 I write blog https://medium.com/@sermineldek.
-- ⚡ I am currently trying to improve myself and open to work.
+💡 I believe in the power of AI and automation to transform the software testing landscape, and I continuously explore new technologies to push the boundaries of quality assurance.
 
+📌 I share insights on software testing and AI: Medium
 
-To contact me:
-- 📩 sermineldk@gmail.com 
-- ✔ https://www.linkedin.com/in/şermineldek/ 
-- ✔ https://kommunity.com/@sermineldek
-- ✔ https://www.meetup.com/tr-TR/members/38076506
+📩 Let’s Connect & Collaborate:
+🔗 https://linktr.ee/sermineldek
