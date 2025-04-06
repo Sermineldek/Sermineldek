@@ -1,3 +1,5 @@
+💫 About Me:
+
 🚀 Hello, I'm Şermin Eldek
 
 🔍 Software Testing Specialist | AI-Driven Testing | Quality Assurance
