@@ -43,7 +43,6 @@ I am a dual-focused professional with expertise in both **Artificial Intelligenc
 | `Mobile QA Kit` | Cross-platform mobile test automation | Appium, Android Emulator |
 
 > 🔐 *Some enterprise projects are private. Demos or documentation samples available on request.*
-
 ---
 
 ## ✍️ Publications
