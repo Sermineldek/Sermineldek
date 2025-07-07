@@ -70,7 +70,7 @@ I give guest lectures and design educational programs on:
 
 - 🔗 [Linktree – All My Platforms](https://linktr.ee/sermineldek)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sermineldek)  
-- 📩 Email: sermineldek@gmail.com
+- 📩 Email: sermineldk@gmail.com
 
 ---
 
