@@ -1,6 +1,6 @@
 # Şermin Eldek
 
-**AI Engineer | Software Quality Assurance & Test Automation Specialist**  
+**AI & QA Engineer | ISO/IEC 42001 Lead Auditor | LLM & ML Testing Specialist | Building Trustworthy AI Systems**  
 🔬 Bridging AI Innovation with Software Quality Excellence
 
 ---
